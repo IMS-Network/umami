@@ -1223,10 +1223,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@fontsource/inter@4.5.7":
-  version "4.5.7"
-  resolved "https://registry.npmjs.org/@fontsource/inter/-/inter-4.5.7.tgz"
-  integrity sha512-25k3thupaOEBexuU+jAkGqieKPbuhSuA+sinDwp1iBNhqQPiJ9QHDvsXgoCgCbZ4sGlE8aCwZmSlDJrPdJHNkw==
+"@fontsource/inter@4.5.15":
+  version "4.5.15"
+  resolved "https://registry.yarnpkg.com/@fontsource/inter/-/inter-4.5.15.tgz#eed1873d68755d3b52d6fcfcfa3493118430a512"
+  integrity sha512-FzleM9AxZQK2nqsTDtBiY0PMEVWvnKnuu2i09+p6DHvrHsuucoV2j0tmw+kAT3L4hvsLdAIDv6MdGehsPIdT+Q==
 
 "@formatjs/cli@^4.2.29":
   version "4.8.4"
@@ -5368,10 +5368,10 @@ natural-compare@^1.4.0:
   resolved "https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz"
   integrity sha1-Sr6/7tdUHywnrPspvbvRXI1bpPc=
 
-next-basics@^0.18.0:
-  version "0.18.0"
-  resolved "https://registry.yarnpkg.com/next-basics/-/next-basics-0.18.0.tgz#7683ec67d562fb57a6f3fb346c989802157450d1"
-  integrity sha512-KJZjAHahQ++YYaSPuJVAY0wH9QYXVq85ZUGW5mBMq+qDfL8ZVG4nTWc8GhuI8EYLLR+oZp/eInvoqYgiW/dbhg==
+next-basics@^0.26.0:
+  version "0.26.0"
+  resolved "https://registry.yarnpkg.com/next-basics/-/next-basics-0.26.0.tgz#b6fe4c6ba13e9d56f605f04cafe36a89248a8842"
+  integrity sha512-sIMKywyYVrXhpRgTj5tb1Xcfk3qKMdggOJSm2j6px5Q3uh3sETQGvf1kadPQpnPbddx9V51bltwQY68IomygIw==
   dependencies:
     base-x "^4.0.0"
     bcryptjs "^2.4.3"
@@ -6324,12 +6324,12 @@ react-spring@^9.6.1:
     "@react-spring/web" "~9.6.1"
     "@react-spring/zdog" "~9.6.1"
 
-react-tooltip@^4.2.21:
-  version "4.2.21"
-  resolved "https://registry.npmjs.org/react-tooltip/-/react-tooltip-4.2.21.tgz"
-  integrity sha512-zSLprMymBDowknr0KVDiJ05IjZn9mQhhg4PRsqln0OZtURAJ1snt1xi5daZfagsh6vfsziZrc9pErPTDY1ACig==
+react-tooltip@^4.5.1:
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/react-tooltip/-/react-tooltip-4.5.1.tgz#77eccccdf16adec804132e558ec20ca5783b866a"
+  integrity sha512-Zo+CSFUGXar1uV+bgXFFDe7VeS2iByeIp5rTgTcc2HqtuOS5D76QapejNNfx320MCY91TlhTQat36KGFTqgcvw==
   dependencies:
-    prop-types "^15.7.2"
+    prop-types "^15.8.1"
     uuid "^7.0.3"
 
 react-use-measure@^2.0.4:
