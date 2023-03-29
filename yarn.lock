@@ -5275,6 +5275,13 @@ moize@^6.1.0:
     fast-equals "^3.0.1"
     micro-memoize "^4.0.11"
 
+moment-timezone@0.5.26:
+  version "0.5.26"
+  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.26.tgz#c0267ca09ae84631aa3dc33f65bedbe6e8e0d772"
+  integrity sha512-sFP4cgEKTCymBBKgoxZjYzlSovC20Y6J7y3nanDc5RoBIXKlZhoYwBoZGe3flwU6A372AcRwScH8KiwV6zjy1g==
+  dependencies:
+    moment ">= 2.9.0"
+
 moment-timezone@^0.5.35:
   version "0.5.38"
   resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.38.tgz#9674a5397b8be7c13de820fd387d8afa0f725aad"
@@ -7253,12 +7260,13 @@ through@2.3.8, "through@>=2.2.7 <3", through@^2.3.8:
   resolved "https://registry.npmjs.org/through/-/through-2.3.8.tgz"
   integrity sha512-w89qg7PI8wAdvX60bMDP+bFoD5Dvhm9oLheFp5O4a2QF0cSBGsBX4qZmadPMvVqlLJBBci+WqGGOAPvcDeNSVg==
 
-timezone-support@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.npmjs.org/timezone-support/-/timezone-support-2.0.2.tgz"
-  integrity sha512-J/1PyHCX76vOPuJzCyHMQMH2wTjXCJ30R5EXaS/QTi+xYsL0thS0pubDrHCWnfG4zU1jpPJtctnBBRCOpcJZeQ==
+timezone-support@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/timezone-support/-/timezone-support-2.2.0.tgz#b3146cb99bf188a92b5348591202e8e3aa013135"
+  integrity sha512-4TmVraC9vxQVLMGeV5OaC12QWbYMhzFWTyAcBO64UB53kbLRIuDdQlr/ZvmatdOv8z5pWw/uK0kZ1DBm4uoUhw==
   dependencies:
     commander "2.20.0"
+    moment-timezone "0.5.26"
 
 tiny-glob@^0.2.9:
   version "0.2.9"
