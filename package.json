@@ -80,7 +80,7 @@
     "is-docker": "^3.0.0",
     "is-localhost-ip": "^1.4.0",
     "isbot": "^3.6.5",
-    "kafkajs": "^2.1.0",
+    "kafkajs": "^2.2.3",
     "maxmind": "^4.3.6",
     "moment-timezone": "^0.5.35",
     "next": "^12.3.1",
